@@ -14,6 +14,7 @@ class Customer_Delivery_Address extends Model
         'district_id',
         'division_id',
         'address',
+        'mobile',
         'post_code',
     ];
 }
